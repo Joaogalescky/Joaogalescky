@@ -4,5 +4,5 @@
 - I’m looking to collaborate on projects, works and everything that involves programming, every opportunite is welcome for me.
 - You can reach me by my:
 - email: joaocvgalescky@gmail.com;
-- discord: Skyfall_jack;
+- discord: Skyfall_jack#1429;
 - smartphone: +55 45 98826-4762.
