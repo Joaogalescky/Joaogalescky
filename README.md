@@ -15,8 +15,8 @@
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCM16&layout=compact&langs_count=168&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaogalescky&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogalescky&layout=compact&langs_count=168&theme=dark"/>
 </div>
 
 ### You can reach me by my:
