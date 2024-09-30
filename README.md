@@ -1,4 +1,4 @@
-## 👋 Hi, I’m João Vitor,
+## 👋 Hi, I’m João Vitor
 
 ### About me:
 - I’m interested in games, history, art, music, science and programming, but I'm open for new experiences...
@@ -21,7 +21,7 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
 </p>
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaogalescky&show_icons=true&theme=dark"/>
