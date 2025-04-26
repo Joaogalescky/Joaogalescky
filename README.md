@@ -31,6 +31,6 @@
 
 ### You can reach me by my:
 - email: joaocvgalescky@gmail.com;
-- linkedin: www.linkedin.com/in/joao-vitor-campoe-galescky
-  credly: www.credly.com/users/joao-vitor-campoe-galescky
+- linkedin: www.linkedin.com/in/joao-vitor-campoe-galescky;
+- credly: www.credly.com/users/joao-vitor-campoe-galescky;
 - discord: Skyfall_jack#1429.
