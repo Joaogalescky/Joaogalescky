@@ -1,11 +1,11 @@
-## 👋 Hi, I’m João Vitor
+## 👋 Hi, My name is João Vitor
 
 ### About me:
-- I’m interested in games, history, art, music, science and programming, but I'm open for new experiences...
+- I’m interested in games, history, art, music, science and programming, but I'm open for new experiences;
 - I’m currently learning all the subjects referents to my course of systems analysis and development;
-- I'm learning english, spanish, german and japanese, the last three being on my own;
+- I'm learning english, spanish, german and japanese;
 - I’m looking to collaborate on projects, works and everything that involves programming, every opportunite is welcome for me.
-- -----------------------
+------------------------
 
 ### Skills:
 <p align="left">
@@ -17,7 +17,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
 </p>
@@ -33,4 +32,4 @@
 - email: joaocvgalescky@gmail.com;
 - linkedin: www.linkedin.com/in/joao-vitor-campoe-galescky;
 - credly: www.credly.com/users/joao-vitor-campoe-galescky;
-- discord: Skyfall_jack#1429.
+- discord: skyfall_jack.
